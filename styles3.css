@@ -1,0 +1,36 @@
+тело {
+    font-size: 24px;
+}
+.зеленый {
+    color: green;
+}
+.красный {
+    color: red;
+}
+.синий {
+    color: blue;
+}
+li.green {
+    color: green;
+}
+li.red {
+    color: red;
+}
+li.blue {
+    color: blue;
+}
+ul ol li.red {
+    color: red;
+}
+ul ol li.green {
+    color: green;
+}
+ul ol li.blue {
+    color: blue;
+}
+p.курсив {
+    font-style: italic;
+}
+p.bold {
+    font-weight: bold;
+}
